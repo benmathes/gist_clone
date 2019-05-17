@@ -38,9 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'user',
-    'file',
-    'change'
+    'gist_clone.user',
+    'gist_clone.file',
+    'gist_clone.change'
 ]
 
 MIDDLEWARE = [
